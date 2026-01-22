@@ -21,7 +21,7 @@ Protein structures in the `SAbDab` dataset can be downloaded [**here**](https://
 
 The `data` folder contains a snapshot of the dataset index (`sabdab_summary_all.tsv`). You may replace the index with the latest version [**here**](https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/summary/all/).
 
-Trained model weights are available [**here** (Google Drive)](https://drive.google.com/drive/folders/15ANqouWRTG2UmQS_p0ErSsrKsU4HmNQc?usp=sharing).
+Trained model weights are available.
 
 ### PyRosetta
 
@@ -54,5 +54,7 @@ chmod +x run_mass_generation_mdmad_k1_k1.sh
 ```
 
 ## Evaluation
-python -m mdmad.tools.eval 
+```bash
+python -m mdmad.tools.eval
+```
 
