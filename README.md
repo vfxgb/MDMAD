@@ -23,8 +23,7 @@ conda activate mdmad
 **SAbDab Dataset:**
 - Download protein structures from the [SAbDab archive](https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/archive/all/)
 - Extract `all_structures.zip` into the `data` folder
-- The `data` folder includes a snapshot of the dataset index (`sabdab_summary_all.tsv`)
-- You can replace it with the [latest version](https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/summary/all/) if needed
+- Use the .tsv in the `data` folder
 
 **Model Weights:**  
 Trained model weights are available for download.
