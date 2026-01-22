@@ -1,6 +1,6 @@
 # MDMAD
 
-![cover-large](./assets/mdmad.png)
+![cover-large](./assets/mdmad.pdf)
 
 Mixture Diffusion Model for Multimodal Antibody Design 
 
