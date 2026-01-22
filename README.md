@@ -26,7 +26,8 @@ conda activate mdmad
 - Use the .tsv in the `data` folder
 
 **Model Weights:**  
-Trained model weights are available for download.
+Trained model weights are available for download [here](https://drive.google.com/drive/folders/1a7MiL8nnFa3qYr_GINZ6TlVF3iw6gfFC?usp=sharing).
+
 
 ### PyRosetta
 
