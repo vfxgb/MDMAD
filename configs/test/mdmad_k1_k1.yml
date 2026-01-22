@@ -1,6 +1,7 @@
 mode: single_cdr
 model:
-  checkpoint: ./logs_server_diffab_mdn/diffab_mdn_k1_2025_11_15__11_13_55/checkpoints/300000.pt
+  # configure ur path here
+  checkpoint: ./logs/mdmad/checkpoints/300000.pt
 
 sampling:
   seed: 2022
