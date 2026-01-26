@@ -78,4 +78,9 @@ Evaluate the generated antibodies:
 python -m mdmad.tools.eval
 ```
 
+## Multimodal coverage and canonical-like structures
+```bash
+python -m mdmad.tools.coverage_metrics
+```
+
 ---
