@@ -1,8 +1,6 @@
 # MDMAD 
 **Mixture Diffusion Model for Multimodal Antibody Design**
 
-![cover-large](./assets/mdmad.png)
-
 ---
 
 ## Installation
