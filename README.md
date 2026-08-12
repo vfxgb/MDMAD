@@ -2,7 +2,7 @@
 Official code for the paper **[Mixture Diffusion Model for Multimodal Antibody Design](https://doi.org/10.1093/bib/bbag409)** (*Briefings in Bioinformatics*, 2026).
 
 <p align="center">
-  <img src="assets/MDMAD_training.jpg" alt="MDMAD architecture" width="850">
+  <img src="assets/mdmad.jpg" alt="MDMAD architecture" width="850">
 </p>
 
 ---
