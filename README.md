@@ -1,5 +1,5 @@
 # MDMAD 
-Official code for the paper **[Mixture Diffusion Model for Multimodal Antibody Design](https://doi.org/10.1093/bib/bbag409)**.
+Official code for the paper **[Mixture Diffusion Model for Multimodal Antibody Design](https://doi.org/10.1093/bib/bbag409)** (*Briefings in Bioinformatics*, 2026).
 
 ---
 
