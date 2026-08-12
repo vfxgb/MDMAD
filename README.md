@@ -1,5 +1,5 @@
 # MDMAD 
-**Mixture Diffusion Model for Multimodal Antibody Design**
+Official code for **[Mixture Diffusion Model for Multimodal Antibody Design](https://doi.org/10.1093/bib/bbag409)**.
 
 ---
 
