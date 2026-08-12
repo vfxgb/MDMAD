@@ -89,15 +89,17 @@ If you use MDMAD in your research, please cite:
 
 ```bibtex
 @article{durvasula2026mixture,
-  title={Mixture diffusion model for multimodal antibody design},
-  author={Durvasula, Vasanth and Sayuti, Tiara Natasha Binte and Rajapakse, Jagath C.},
-  journal={Briefings in Bioinformatics},
-  volume={27},
-  number={4},
-  pages={bbag409},
-  year={2026},
-  publisher={Oxford University Press},
-  doi={10.1093/bib/bbag409}
+  author = {Durvasula, Vasanth and Sayuti, Tiara Natasha Binte and Rajapakse, Jagath C},
+  title = {Mixture diffusion model for multimodal antibody design},
+  journal = {Briefings in Bioinformatics},
+  volume = {27},
+  number = {4},
+  pages = {bbag409},
+  year = {2026},
+  month = {07},
+  issn = {1477-4054},
+  doi = {10.1093/bib/bbag409},
+  url = {https://doi.org/10.1093/bib/bbag409}
 }
 ```
 
