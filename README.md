@@ -80,5 +80,22 @@ python -m mdmad.tools.eval
 ```bash
 python -m mdmad.tools.coverage_metrics
 ```
+## Citation
+
+If you use MDMAD in your research, please cite:
+
+```bibtex
+@article{durvasula2026mixture,
+  title={Mixture diffusion model for multimodal antibody design},
+  author={Durvasula, Vasanth and Sayuti, Tiara Natasha Binte and Rajapakse, Jagath C.},
+  journal={Briefings in Bioinformatics},
+  volume={27},
+  number={4},
+  pages={bbag409},
+  year={2026},
+  publisher={Oxford University Press},
+  doi={10.1093/bib/bbag409}
+}
+```
 
 ---
